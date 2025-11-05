@@ -37,7 +37,7 @@ Praktikum ini membahas bagaimana data dapat ditampilkan dalam bentuk list, data 
 
 Aplikasi ini terdiri dari satu activity utama yang akan menampilkan:
 
--**Tampilan Story (Dummy):** Menampilkan daftar 10 story dummy menggunakan `RecyclerView` horizontal.
+- **Tampilan Story (Dummy):** Menampilkan daftar 10 story dummy menggunakan `RecyclerView` horizontal.
 - **Tampilan Post (Database):** Menampilkan daftar postingan secara vertikal menggunakan `RecyclerView` yang datanya diambil dari `Room Database`.
 - **Pre-populate Database:** Saat aplikasi pertama kali diinstal, database akan otomatis diisi dengan 4 postingan default (termasuk gambar dari `drawable`).
 - **Tambah Post:** Pengguna dapat menambahkan postingan baru melalui `FloatingActionButton` (FAB) yang akan memunculkan `AlertDialog`.
